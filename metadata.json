@@ -1,0 +1,6 @@
+{
+  "name": "Canvas — Visual Website Builder",
+  "description": "Visual in-place website builder: select elements, change styles, add or delete blocks, and export HTML without code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
